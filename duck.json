@@ -1,0 +1,7 @@
+{
+    "$schema": "https://raw.githubusercontent.com/duckhq/duck/master/schemas/v0.14.json",
+    "interval": 30,
+    "views": [],
+    "collectors": [],
+    "observers": []
+}

@@ -1,0 +1,7 @@
+# duck.local
+
+Configure a local instance of Duck using Docker Compose, systemd, and Nginx.
+
+## Disclaimer
+
+No warranty expressed or implied. Code is provided as is.
